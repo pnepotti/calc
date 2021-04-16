@@ -1,3 +1,7 @@
+# Grupo XX
+
+* Nepotti, Paulo Alejandro.
+
 # Calc
 
 Calculadora con funciones simples.

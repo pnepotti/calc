@@ -17,8 +17,14 @@ function res(a, b) {}
 function mul(a, b) {}
 
 function div(a, b) {
-    // Tener en cuenta division por 0
-    // Si b es 0 retornar "Error: div by 0"
+    // Si el segundo numero es distinto de cero, devuelve el primer
+    // numero dividido el segundo. Sino, devuelve la cadena de texto
+    // "Error: div by 0"
+    if (b != 0) {
+        return a / b;
+    } else {
+        return "Error: div by 0";
+    }
 }
 
 function pow(a, b) {}
