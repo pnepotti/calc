@@ -1,3 +1,10 @@
+Numero de Grupo:xx
+
+Integrantes:
+Angeloni Franco
+
+
+
 # Calc
 
 Calculadora con funciones simples.
